@@ -1,4 +1,4 @@
-Causa,AÒo,CO2,CH4,N2O,CO2-Equivalente 
+Causa,Anio,CO2,CH4,N2O,CO2-Equivalente 
 Energia,1990,26,58 ,20,48 ,0,50 ,27,28 
 Energia,1991,28,45 ,21,95 ,0,50 ,29,19 
 Energia,1992,28,16 ,22,23 ,0,48 ,28,91 
@@ -127,38 +127,38 @@ Agricultura,2018,0,05 ,154,84 ,6,11 ,6,00
 Agricultura,2019,0,05 ,152,34 ,5,98 ,5,90 
 Agricultura,2020,0,04 ,151,15 ,5,97 ,5,86 
 Agricultura,2021,0,05 ,151,73 ,6,05 ,5,90 
-Tr·fico  aÈreo y marÌtimo,1990,3,13 ,0,03 ,0,09 ,3,15 
-Tr·fico  aÈreo y marÌtimo,1991,3,05 ,0,03 ,0,08 ,3,07 
-Tr·fico  aÈreo y marÌtimo,1992,3,24 ,0,03 ,0,09 ,3,27 
-Tr·fico  aÈreo y marÌtimo,1993,3,38 ,0,03 ,0,09 ,3,40 
-Tr·fico  aÈreo y marÌtimo,1994,3,49 ,0,02 ,0,10 ,3,52 
-Tr·fico  aÈreo y marÌtimo,1995,3,71 ,0,02 ,0,10 ,3,74 
-Tr·fico  aÈreo y marÌtimo,1996,3,85 ,0,02 ,0,11 ,3,88 
-Tr·fico  aÈreo y marÌtimo,1997,4,00 ,0,02 ,0,11 ,4,03 
-Tr·fico  aÈreo y marÌtimo,1998,4,18 ,0,02 ,0,11 ,4,21 
-Tr·fico  aÈreo y marÌtimo,1999,4,49 ,0,03 ,0,12 ,4,53 
-Tr·fico  aÈreo y marÌtimo,2000,4,70 ,0,03 ,0,13 ,4,74 
-Tr·fico  aÈreo y marÌtimo,2001,4,43 ,0,03 ,0,12 ,4,46 
-Tr·fico  aÈreo y marÌtimo,2002,4,08 ,0,02 ,0,11 ,4,11 
-Tr·fico  aÈreo y marÌtimo,2003,3,67 ,0,02 ,0,10 ,3,70 
-Tr·fico  aÈreo y marÌtimo,2004,3,46 ,0,02 ,0,10 ,3,49 
-Tr·fico  aÈreo y marÌtimo,2005,3,52 ,0,02 ,0,10 ,3,55 
-Tr·fico  aÈreo y marÌtimo,2006,3,70 ,0,02 ,0,10 ,3,73 
-Tr·fico  aÈreo y marÌtimo,2007,3,95 ,0,02 ,0,11 ,3,98 
-Tr·fico  aÈreo y marÌtimo,2008,4,27 ,0,02 ,0,12 ,4,30 
-Tr·fico  aÈreo y marÌtimo,2009,4,07 ,0,02 ,0,11 ,4,10 
-Tr·fico  aÈreo y marÌtimo,2010,4,29 ,0,02 ,0,12 ,4,32 
-Tr·fico  aÈreo y marÌtimo,2011,4,58 ,0,02 ,0,13 ,4,62 
-Tr·fico  aÈreo y marÌtimo,2012,4,68 ,0,02 ,0,13 ,4,72 
-Tr·fico  aÈreo y marÌtimo,2013,4,74 ,0,02 ,0,13 ,4,77 
-Tr·fico  aÈreo y marÌtimo,2014,4,75 ,0,02 ,0,13 ,4,79 
-Tr·fico  aÈreo y marÌtimo,2015,4,93 ,0,02 ,0,14 ,4,96 
-Tr·fico  aÈreo y marÌtimo,2016,5,16 ,0,02 ,0,14 ,5,20 
-Tr·fico  aÈreo y marÌtimo,2017,5,32 ,0,02 ,0,15 ,5,36 
-Tr·fico  aÈreo y marÌtimo,2018,5,64 ,0,02 ,0,15 ,5,68 
-Tr·fico  aÈreo y marÌtimo,2019,5,71 ,0,02 ,0,16 ,5,75 
-Tr·fico  aÈreo y marÌtimo,2020,2,07 ,0,01 ,0,06 ,2,08 
-Tr·fico  aÈreo y marÌtimo,2021,2,34 ,0,01 ,0,06 ,2,35 
+Tr√°fico  a√©reo y mar√≠timo,1990,3,13 ,0,03 ,0,09 ,3,15 
+Tr√°fico  a√©reo y mar√≠timo,1991,3,05 ,0,03 ,0,08 ,3,07 
+Tr√°fico  a√©reo y mar√≠timo,1992,3,24 ,0,03 ,0,09 ,3,27 
+Tr√°fico  a√©reo y mar√≠timo,1993,3,38 ,0,03 ,0,09 ,3,40 
+Tr√°fico  a√©reo y mar√≠timo,1994,3,49 ,0,02 ,0,10 ,3,52 
+Tr√°fico  a√©reo y mar√≠timo,1995,3,71 ,0,02 ,0,10 ,3,74 
+Tr√°fico  a√©reo y mar√≠timo,1996,3,85 ,0,02 ,0,11 ,3,88 
+Tr√°fico  a√©reo y mar√≠timo,1997,4,00 ,0,02 ,0,11 ,4,03 
+Tr√°fico  a√©reo y mar√≠timo,1998,4,18 ,0,02 ,0,11 ,4,21 
+Tr√°fico  a√©reo y mar√≠timo,1999,4,49 ,0,03 ,0,12 ,4,53 
+Tr√°fico  a√©reo y mar√≠timo,2000,4,70 ,0,03 ,0,13 ,4,74 
+Tr√°fico  a√©reo y mar√≠timo,2001,4,43 ,0,03 ,0,12 ,4,46 
+Tr√°fico  a√©reo y mar√≠timo,2002,4,08 ,0,02 ,0,11 ,4,11 
+Tr√°fico  a√©reo y mar√≠timo,2003,3,67 ,0,02 ,0,10 ,3,70 
+Tr√°fico  a√©reo y mar√≠timo,2004,3,46 ,0,02 ,0,10 ,3,49 
+Tr√°fico  a√©reo y mar√≠timo,2005,3,52 ,0,02 ,0,10 ,3,55 
+Tr√°fico  a√©reo y mar√≠timo,2006,3,70 ,0,02 ,0,10 ,3,73 
+Tr√°fico  a√©reo y mar√≠timo,2007,3,95 ,0,02 ,0,11 ,3,98 
+Tr√°fico  a√©reo y mar√≠timo,2008,4,27 ,0,02 ,0,12 ,4,30 
+Tr√°fico  a√©reo y mar√≠timo,2009,4,07 ,0,02 ,0,11 ,4,10 
+Tr√°fico  a√©reo y mar√≠timo,2010,4,29 ,0,02 ,0,12 ,4,32 
+Tr√°fico  a√©reo y mar√≠timo,2011,4,58 ,0,02 ,0,13 ,4,62 
+Tr√°fico  a√©reo y mar√≠timo,2012,4,68 ,0,02 ,0,13 ,4,72 
+Tr√°fico  a√©reo y mar√≠timo,2013,4,74 ,0,02 ,0,13 ,4,77 
+Tr√°fico  a√©reo y mar√≠timo,2014,4,75 ,0,02 ,0,13 ,4,79 
+Tr√°fico  a√©reo y mar√≠timo,2015,4,93 ,0,02 ,0,14 ,4,96 
+Tr√°fico  a√©reo y mar√≠timo,2016,5,16 ,0,02 ,0,14 ,5,20 
+Tr√°fico  a√©reo y mar√≠timo,2017,5,32 ,0,02 ,0,15 ,5,36 
+Tr√°fico  a√©reo y mar√≠timo,2018,5,64 ,0,02 ,0,15 ,5,68 
+Tr√°fico  a√©reo y mar√≠timo,2019,5,71 ,0,02 ,0,16 ,5,75 
+Tr√°fico  a√©reo y mar√≠timo,2020,2,07 ,0,01 ,0,06 ,2,08 
+Tr√°fico  a√©reo y mar√≠timo,2021,2,34 ,0,01 ,0,06 ,2,35 
 Otros,1990,0,01 ,0,03 ,0,00 ,0,01 
 Otros,1991,0,01 ,0,03 ,0,00 ,0,02 
 Otros,1992,0,01 ,0,03 ,0,00 ,0,02 
