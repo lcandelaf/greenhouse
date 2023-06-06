@@ -1,4 +1,4 @@
-Causa,Anio,CO2,CH4,N2O,CO2-Equivalente 
+Causa,Aniio,CO2,CH4,N2O,CO2-Equivalente 
 Energia,1990,26,58 ,20,48 ,0,50 ,27,28 
 Energia,1991,28,45 ,21,95 ,0,50 ,29,19 
 Energia,1992,28,16 ,22,23 ,0,48 ,28,91 
